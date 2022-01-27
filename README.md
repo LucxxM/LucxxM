@@ -4,6 +4,8 @@
 - 
 - 🌱 I’m currently studying to be CDA at Académie Digitale. Personally i work to learn javascript and javascript's frameworks.
 - 
+- 🎖️ I graduated DWWM. Developpeur web and web mobile.
+- 
 - 💞️ I’m looking to collaborate on every project
 - 
 - 📫 How to reach me mortellierluc@gmail.com
