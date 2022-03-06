@@ -13,6 +13,8 @@
 
 
 
+![LucxxM Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucxxM&langs_count=10&layout=compact&theme=dark)
+
 <!---
 Hey! I need to complete this xDD
 --->
