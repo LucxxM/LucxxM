@@ -15,7 +15,7 @@
 
 ![LucxxM Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucxxM&langs_count=10&theme=highcontrast&show_icons=true)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LucxxM&repo=github-readme-stats)](https://https://github.com/LucxxM/ReactRecherche/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LucxxM&repo=github-readme-stats)](https://github.com/LucxxM/ReactRecherche/github-readme-stats)
 
 <!---
 Hey! I need to complete this xDD
