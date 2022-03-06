@@ -13,7 +13,7 @@
 
 
 
-![LucxxM Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucxxM&langs_count=10&layout=compact&theme=dark)
+![LucxxM Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucxxM&langs_count=10&layout=compact&theme=highcontrast)
 
 <!---
 Hey! I need to complete this xDD
