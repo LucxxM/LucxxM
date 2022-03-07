@@ -2,7 +2,9 @@
 - 
 - 👀 I’m interested in developpement web and app developpement.
 - 
-- 🌱 I’m currently studying to be CDA at Académie Digitale. Personally i work to learn javascript and javascript's frameworks.
+- 🌱 I’m currently studying to be CDA at Académie Digitale. (In progress => Java).
+- 
+- 🌱 Personally i work to learn javascript and javascript's frameworks.
 - 
 - 🎖️ I graduated DWWM. Developpeur web and web mobile.
 - 
