@@ -8,8 +8,6 @@
 - 
 - 🎖️ I graduated DWWM. Developpeur web and web mobile.
 - 
-- 💞️ I’m looking to collaborate on every project
-- 
 - 📫 How to reach me mortellierluc@gmail.com
 
 
