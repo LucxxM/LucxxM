@@ -13,7 +13,7 @@
 
 
 
-![LucxxM Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucxxM&langs_count=10&theme=highcontrast&show_icons=true)                             
+<!-- ![LucxxM Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucxxM&langs_count=10&theme=highcontrast&show_icons=true)                              -->
 
 
 
